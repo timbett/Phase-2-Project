@@ -1,0 +1,31 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "name": "Timothy",
+      "message": "What I would like to do is to leave behind  a sustainable entity of a set of companies that operate in an exemplary manner in terms of ethics, values and continue what our ancestors left behind.",
+      "author": "Mary Martin",
+      "url": "https://cdn.techjuice.pk/wp-content/uploads/2015/04/Motivation1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Kibet",
+      "message": "People still believe what they read is necessarily the truth.",
+      "author": "Oscar Wilder",
+      "url": "https://intentionalinsights.org/wp-content/uploads/2017/04/eaacd68223330502aa0a0bebac1210062.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Chris ",
+      "message": "Very Good",
+      "Grade": "B"
+    },
+    {
+      "name": "Onesmus",
+      "author": "Good",
+      "url": "https://image.api.playstation.com/vulcan/img/cfn/11307IbgHh2pcO27P3C8ugtI74-pMOtv-2aLB1TU3h2VvTS8ng6oJmD6s1bpocUIcDJBjsMxI7ey9SNaCGvB09hAWxw0czIh.png",
+      "message": "wufgcwoefhiwbc",
+      "id": 4
+    }
+  ]
+}
